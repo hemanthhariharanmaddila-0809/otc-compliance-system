@@ -5,7 +5,6 @@ A production-ready RegTech (Regulatory Technology) application that automates RB
 
 
 🏗️ System Architecture
-text
 ┌─────────────────────┐     ┌─────────────────────┐
 │    User 1 Portal    │     │    User 2 Portal    │
 │   (FastAPI :8001)   │     │   (FastAPI :8002)   │
